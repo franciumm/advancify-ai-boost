@@ -67,10 +67,10 @@ const ContactFormSection = () => {
         {/* Section Header */}
         <div className="text-center mb-12">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6">
-            Ready to <span className="gradient-text">Get Started?</span>
+            Ready to <span className="gradient-text">Unlock your AI edge — tailored for your business.</span>
           </h2>
           <p className="text-lg sm:text-xl text-gray-300 max-w-2xl mx-auto">
-            Tell us about your business needs and we'll create a custom AI automation solution for you.
+            Our focus is quality, not quantity. We're offering a tailored 2-week demo to a limited group of businesses — tell us your goals and let's build your AI agent.
           </p>
         </div>
 
@@ -139,7 +139,7 @@ const ContactFormSection = () => {
             </div>
 
             <div className="space-y-2">
-              <Label htmlFor="message" className="text-white">Tell us about your automation needs</Label>
+              <Label htmlFor="message" className="text-white">Tell Us more about your business</Label>
               <Textarea
                 id="message"
                 value={formData.message}

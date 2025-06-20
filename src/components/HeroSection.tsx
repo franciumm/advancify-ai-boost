@@ -37,7 +37,7 @@ const HeroSection = () => {
             Advance Your{' '}
             <span className="gradient-text">Potential</span>
             <br />
-            with AI-Powered Solutions
+            with AI-Powered Solutions.
           </h2>
         </div>
 
